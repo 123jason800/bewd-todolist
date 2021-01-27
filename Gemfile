@@ -13,7 +13,7 @@ gem 'sass-rails', '~> 6.0'
 gem 'uglifier', '>= 4.2.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
-gem 'bundler', '~> 2.2.7'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails', '>= 4.3.5'
 # Use CoffeeScript for .coffee assets and views
